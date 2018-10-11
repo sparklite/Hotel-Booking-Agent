@@ -1,0 +1,170 @@
+[
+  {
+    "id": "7b814041-6309-495b-ae88-4fb404af4f79",
+    "data": [
+      {
+        "text": "i want ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "NoOfRooms",
+        "meta": "@NoOfRooms",
+        "userDefined": false
+      },
+      {
+        "text": " rooms",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539272772
+  },
+  {
+    "id": "9c9ea156-2cc9-4a1e-985d-0c0759488887",
+    "data": [
+      {
+        "text": "I want to book a ",
+        "userDefined": false
+      },
+      {
+        "text": "luxury",
+        "alias": "RoomType",
+        "meta": "@RoomType",
+        "userDefined": false
+      },
+      {
+        "text": " room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539272324
+  },
+  {
+    "id": "bb81fba4-1dfa-4fdc-8670-b77d40d0edbc",
+    "data": [
+      {
+        "text": "My email is ",
+        "userDefined": false
+      },
+      {
+        "text": "reubenoboz@hotmail.com",
+        "alias": "email",
+        "meta": "@sys.email",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539271499
+  },
+  {
+    "id": "a1d99b0f-2ebd-4d7e-8134-c5b9a2ec8075",
+    "data": [
+      {
+        "text": "My phone number is ",
+        "userDefined": false
+      },
+      {
+        "text": "+2348130197763",
+        "alias": "phone-number",
+        "meta": "@sys.phone-number",
+        "userDefined": true
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539271499
+  },
+  {
+    "id": "2801d2b5-0282-4012-8ac6-b5fd3ba2d5d4",
+    "data": [
+      {
+        "text": "I want to book a room for ",
+        "userDefined": false
+      },
+      {
+        "text": "3",
+        "alias": "number",
+        "meta": "@sys.number",
+        "userDefined": false
+      },
+      {
+        "text": " persons",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539271499
+  },
+  {
+    "id": "f589d698-5bcf-487b-8053-c5a813180b2f",
+    "data": [
+      {
+        "text": "My name is ",
+        "userDefined": false
+      },
+      {
+        "text": "Reuben",
+        "alias": "given-name",
+        "meta": "@sys.given-name",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539271499
+  },
+  {
+    "id": "5d40f85e-f0da-455e-b5f9-e107d5812583",
+    "data": [
+      {
+        "text": "hotel reservation",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539271499
+  },
+  {
+    "id": "75247713-5f93-4599-a6c3-b58f51b5cf2a",
+    "data": [
+      {
+        "text": "i want to reserve a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539271499
+  },
+  {
+    "id": "503f0272-b52e-46d1-8652-06ab9f66e45b",
+    "data": [
+      {
+        "text": "i need a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539271499
+  },
+  {
+    "id": "e9b55823-da08-493d-bc8e-3d92c71459e0",
+    "data": [
+      {
+        "text": "I want to book a room",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "updated": 1539271499
+  }
+]

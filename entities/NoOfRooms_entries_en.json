@@ -1,0 +1,78 @@
+[
+  {
+    "value": "3 ",
+    "synonyms": [
+      "3 "
+    ]
+  },
+  {
+    "value": "one",
+    "synonyms": [
+      "one",
+      "1"
+    ]
+  },
+  {
+    "value": "two",
+    "synonyms": [
+      "two",
+      "2"
+    ]
+  },
+  {
+    "value": "three",
+    "synonyms": [
+      "three",
+      "3"
+    ]
+  },
+  {
+    "value": "four",
+    "synonyms": [
+      "four",
+      "4"
+    ]
+  },
+  {
+    "value": "five",
+    "synonyms": [
+      "five",
+      "5"
+    ]
+  },
+  {
+    "value": "six",
+    "synonyms": [
+      "six",
+      "6"
+    ]
+  },
+  {
+    "value": "seven",
+    "synonyms": [
+      "seven",
+      "7"
+    ]
+  },
+  {
+    "value": "eight",
+    "synonyms": [
+      "eight",
+      "8"
+    ]
+  },
+  {
+    "value": "nine",
+    "synonyms": [
+      "nine",
+      "9"
+    ]
+  },
+  {
+    "value": "ten",
+    "synonyms": [
+      "ten",
+      "10"
+    ]
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "value": "economy",
+    "synonyms": [
+      "economy",
+      "low cost",
+      "basic",
+      "cheapest least"
+    ]
+  },
+  {
+    "value": "standard",
+    "synonyms": [
+      "standard",
+      "standard",
+      "cheap",
+      "normal"
+    ]
+  },
+  {
+    "value": "vip",
+    "synonyms": [
+      "vip",
+      "big rooom",
+      "excecutive",
+      "lavish"
+    ]
+  },
+  {
+    "value": "penthouse",
+    "synonyms": [
+      "penthouse",
+      "luxury",
+      "top floor",
+      "with balcony"
+    ]
+  }
+]

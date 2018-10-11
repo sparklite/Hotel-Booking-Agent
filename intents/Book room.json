@@ -1,0 +1,165 @@
+{
+  "id": "57b12ee0-05fe-4abc-9b94-a451b72e4e9e",
+  "name": "Book room",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "affectedContexts": [],
+      "parameters": [
+        {
+          "id": "bd2f1531-a266-4e97-a17d-46c0590ec5fa",
+          "required": true,
+          "dataType": "@sys.given-name",
+          "name": "given-name",
+          "value": "$given-name",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is your name?"
+            },
+            {
+              "lang": "en",
+              "value": "May I have your name for the purpose of booking the room?"
+            },
+            {
+              "lang": "en",
+              "value": "Your name please?"
+            },
+            {
+              "lang": "en",
+              "value": "let me know your name"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "93e6209c-e70a-4f39-b9c9-e693cf97276b",
+          "required": true,
+          "dataType": "@sys.number",
+          "name": "number",
+          "value": "$number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "For how many people are you booking the room?"
+            },
+            {
+              "lang": "en",
+              "value": "please provide the me total number of people"
+            },
+            {
+              "lang": "en",
+              "value": "For what number of people?"
+            },
+            {
+              "lang": "en",
+              "value": "Please give me the total number of guests that would be expected"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "0d5f5721-7b63-4830-ab5f-0d6a8bf337da",
+          "required": true,
+          "dataType": "@sys.email",
+          "name": "email",
+          "value": "$email",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "Please provide me with your email address"
+            },
+            {
+              "lang": "en",
+              "value": "What is your email address"
+            },
+            {
+              "lang": "en",
+              "value": "What email address can we reach you on?"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "9fd073b0-2af5-4742-9eb3-d75fa9516027",
+          "required": true,
+          "dataType": "@sys.phone-number",
+          "name": "phone-number",
+          "value": "$phone-number",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What is you phone number?"
+            },
+            {
+              "lang": "en",
+              "value": "Can i have your mobile number?"
+            },
+            {
+              "lang": "en",
+              "value": "Telephone number please"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "babc5775-7385-4acc-b90b-3daee20b6291",
+          "required": true,
+          "dataType": "@RoomType",
+          "name": "RoomType",
+          "value": "$RoomType",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "What type of room do you want to book"
+            },
+            {
+              "lang": "en",
+              "value": "Please select your room type: economy, standard, vip, luxury"
+            },
+            {
+              "lang": "en",
+              "value": "Please state your room type"
+            }
+          ],
+          "isList": false
+        },
+        {
+          "id": "e1a8214c-7ec2-4161-b042-627b3edb50ac",
+          "required": true,
+          "dataType": "@NoOfRooms",
+          "name": "NoOfRooms",
+          "value": "$NoOfRooms",
+          "prompts": [
+            {
+              "lang": "en",
+              "value": "How many rooms do you want to book?"
+            },
+            {
+              "lang": "en",
+              "value": "How many rooms would you be interested in"
+            }
+          ],
+          "isList": false
+        }
+      ],
+      "messages": [
+        {
+          "type": 0,
+          "lang": "en",
+          "speech": "Your hotel booking is forward, you will be contacted shortly"
+        }
+      ],
+      "defaultResponsePlatforms": {},
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "lastUpdate": 1539272772,
+  "fallbackIntent": false,
+  "events": []
+}
